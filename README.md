@@ -13,8 +13,19 @@ Record for Jupyter Notebook for Kaggle/Personal Project, Come and Join with me t
 
 1. Kaggle: https://www.kaggle.com/datasets
    爱竞赛的盆友们应该很熟悉了，Kaggle 上有各种有趣的数据集，拉面评级、篮球数据、甚至西雅图的宠物许可证。
-2. Machine Learning Repository: https://archive.ics.uci.edu/
+2. Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php
    最古老的数据集源之一，是寻找有趣数据集的第一站。虽然数据集是用户贡献的，因此具有不同的清洁度，但绝大多数都是干净的，可以直接从 UCI 机器学习库下载，无需注册。
+3. Google Dataset Search https://datasetsearch.research.google.com/
+4. Amazon Web Service Open Datasets https://registry.opendata.aws/
+5. Microsoft Azure Open Datasets https://azure.microsoft.com/en-us/services/open-datasets/
+6. Quandl https://www.quandl.com/
+7. FRED Economic Data https://fred.stlouisfed.org/
+8. Data.gov https://www.data.gov/
+9. Socrata Open Data https://socrata.com/
+10. Google Trends https://trends.google.com/trends/
+11. World Bank Open Data https://data.worldbank.org/
+12. European Union Open Data Portal https://data.europa.eu/euodp/en/home
+13. United Nations Data https://data.un.org/
 
 ## 50 个最佳机器学习公共数据集，详细地址:
 
